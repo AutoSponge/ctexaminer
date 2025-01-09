@@ -2,7 +2,7 @@
 
 This review was conducted in the first week of 2025 for the purposes of sharing my knowledge and expertise with the CTExaminer staff with the hopes that their readership continues to grow and include people with disabilities.
 
---Paul Grenier
+-- Paul Grenier
 
 - [Technique](#technique)
   - [Axe devtools](#axe-devtools)
