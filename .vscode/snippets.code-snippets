@@ -1,0 +1,2127 @@
+{
+	"external": {
+	  "scope": "markdown",
+	  "prefix": "external",
+	  "body": ["![external link](assets/external-link.svg)"],
+	  "description": "1.1 Text Alternatives"
+	},
+	"1.1 Text Alternatives": {
+	  "scope": "markdown",
+	  "prefix": "1.1 Text Alternatives",
+	  "body": [
+		"[1.1 Text Alternatives ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)"
+	  ],
+	  "description": "1.1 Text Alternatives"
+	},
+	"1.1.1 Non-text Content": {
+	  "scope": "markdown",
+	  "prefix": "1.1.1 Non-text Content",
+	  "body": [
+		"[1.1.1 Non-text Content (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content)"
+	  ],
+	  "description": "1.1.1 Non-text Content"
+	},
+	"1.2 Time-based Media": {
+	  "scope": "markdown",
+	  "prefix": "1.2 Time-based Media",
+	  "body": [
+		"[1.2 Time-based Media ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/time-based-media)"
+	  ],
+	  "description": "1.2 Time-based Media"
+	},
+	"1.2.1 Audio-only and Video-only (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.1 Audio-only and Video-only (Prerecorded)",
+	  "body": [
+		"[1.2.1 Audio-only and Video-only (Prerecorded) (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded)"
+	  ],
+	  "description": "1.2.1 Audio-only and Video-only (Prerecorded)"
+	},
+	"1.2.2 Captions (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.2 Captions (Prerecorded)",
+	  "body": [
+		"[1.2.2 Captions (Prerecorded) (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded)"
+	  ],
+	  "description": "1.2.2 Captions (Prerecorded)"
+	},
+	"1.2.3 Audio Description or Media Alternative (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.3 Audio Description or Media Alternative (Prerecorded)",
+	  "body": [
+		"[1.2.3 Audio Description or Media Alternative (Prerecorded) (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded)"
+	  ],
+	  "description": "1.2.3 Audio Description or Media Alternative (Prerecorded)"
+	},
+	"1.2.4 Captions (Live)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.4 Captions (Live)",
+	  "body": [
+		"[1.2.4 Captions (Live) (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/captions-live)"
+	  ],
+	  "description": "1.2.4 Captions (Live)"
+	},
+	"1.2.5 Audio Description (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.5 Audio Description (Prerecorded)",
+	  "body": [
+		"[1.2.5 Audio Description (Prerecorded) (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prerecorded)"
+	  ],
+	  "description": "1.2.5 Audio Description (Prerecorded)"
+	},
+	"1.2.6 Sign Language (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.6 Sign Language (Prerecorded)",
+	  "body": [
+		"[1.2.6 Sign Language (Prerecorded) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded)"
+	  ],
+	  "description": "1.2.6 Sign Language (Prerecorded)"
+	},
+	"1.2.7 Extended Audio Description (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.7 Extended Audio Description (Prerecorded)",
+	  "body": [
+		"[1.2.7 Extended Audio Description (Prerecorded) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/extended-audio-description-prerecorded)"
+	  ],
+	  "description": "1.2.7 Extended Audio Description (Prerecorded)"
+	},
+	"1.2.8 Media Alternative (Prerecorded)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.8 Media Alternative (Prerecorded)",
+	  "body": [
+		"[1.2.8 Media Alternative (Prerecorded) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/media-alternative-prerecorded)"
+	  ],
+	  "description": "1.2.8 Media Alternative (Prerecorded)"
+	},
+	"1.2.9 Audio-only (Live)": {
+	  "scope": "markdown",
+	  "prefix": "1.2.9 Audio-only (Live)",
+	  "body": [
+		"[1.2.9 Audio-only (Live) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live)"
+	  ],
+	  "description": "1.2.9 Audio-only (Live)"
+	},
+	"1.3 Adaptable": {
+	  "scope": "markdown",
+	  "prefix": "1.3 Adaptable",
+	  "body": [
+		"[1.3 Adaptable ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/adaptable)"
+	  ],
+	  "description": "1.3 Adaptable"
+	},
+	"1.3.1 Info and Relationships": {
+	  "scope": "markdown",
+	  "prefix": "1.3.1 Info and Relationships",
+	  "body": [
+		"[1.3.1 Info and Relationships (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships)"
+	  ],
+	  "description": "1.3.1 Info and Relationships"
+	},
+	"1.3.2 Meaningful Sequence": {
+	  "scope": "markdown",
+	  "prefix": "1.3.2 Meaningful Sequence",
+	  "body": [
+		"[1.3.2 Meaningful Sequence (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence)"
+	  ],
+	  "description": "1.3.2 Meaningful Sequence"
+	},
+	"1.3.3 Sensory Characteristics": {
+	  "scope": "markdown",
+	  "prefix": "1.3.3 Sensory Characteristics",
+	  "body": [
+		"[1.3.3 Sensory Characteristics (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics)"
+	  ],
+	  "description": "1.3.3 Sensory Characteristics"
+	},
+	"1.3.4 Orientation": {
+	  "scope": "markdown",
+	  "prefix": "1.3.4 Orientation",
+	  "body": [
+		"[1.3.4 Orientation (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/orientation)"
+	  ],
+	  "description": "1.3.4 Orientation"
+	},
+	"1.3.5 Identify Input Purpose": {
+	  "scope": "markdown",
+	  "prefix": "1.3.5 Identify Input Purpose",
+	  "body": [
+		"[1.3.5 Identify Input Purpose (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose)"
+	  ],
+	  "description": "1.3.5 Identify Input Purpose"
+	},
+	"1.3.6 Identify Purpose": {
+	  "scope": "markdown",
+	  "prefix": "1.3.6 Identify Purpose",
+	  "body": [
+		"[1.3.6 Identify Purpose (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/identify-purpose)"
+	  ],
+	  "description": "1.3.6 Identify Purpose"
+	},
+	"1.4 Distinguishable": {
+	  "scope": "markdown",
+	  "prefix": "1.4 Distinguishable",
+	  "body": [
+		"[1.4 Distinguishable ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/distinguishable)"
+	  ],
+	  "description": "1.4 Distinguishable"
+	},
+	"1.4.1 Use of Color": {
+	  "scope": "markdown",
+	  "prefix": "1.4.1 Use of Color",
+	  "body": [
+		"[1.4.1 Use of Color (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color)"
+	  ],
+	  "description": "1.4.1 Use of Color"
+	},
+	"1.4.2 Audio Control": {
+	  "scope": "markdown",
+	  "prefix": "1.4.2 Audio Control",
+	  "body": [
+		"[1.4.2 Audio Control (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/audio-control)"
+	  ],
+	  "description": "1.4.2 Audio Control"
+	},
+	"1.4.3 Contrast (Minimum)": {
+	  "scope": "markdown",
+	  "prefix": "1.4.3 Contrast (Minimum)",
+	  "body": [
+		"[1.4.3 Contrast (Minimum) (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum)"
+	  ],
+	  "description": "1.4.3 Contrast (Minimum)"
+	},
+	"1.4.4 Resize Text": {
+	  "scope": "markdown",
+	  "prefix": "1.4.4 Resize Text",
+	  "body": [
+		"[1.4.4 Resize Text (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/resize-text)"
+	  ],
+	  "description": "1.4.4 Resize Text"
+	},
+	"1.4.5 Images of Text": {
+	  "scope": "markdown",
+	  "prefix": "1.4.5 Images of Text",
+	  "body": [
+		"[1.4.5 Images of Text (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/images-of-text)"
+	  ],
+	  "description": "1.4.5 Images of Text"
+	},
+	"1.4.6 Contrast (Enhanced)": {
+	  "scope": "markdown",
+	  "prefix": "1.4.6 Contrast (Enhanced)",
+	  "body": [
+		"[1.4.6 Contrast (Enhanced) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced)"
+	  ],
+	  "description": "1.4.6 Contrast (Enhanced)"
+	},
+	"1.4.7 Low or No Background Audio": {
+	  "scope": "markdown",
+	  "prefix": "1.4.7 Low or No Background Audio",
+	  "body": [
+		"[1.4.7 Low or No Background Audio (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio)"
+	  ],
+	  "description": "1.4.7 Low or No Background Audio"
+	},
+	"1.4.8 Visual Presentation": {
+	  "scope": "markdown",
+	  "prefix": "1.4.8 Visual Presentation",
+	  "body": [
+		"[1.4.8 Visual Presentation (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation)"
+	  ],
+	  "description": "1.4.8 Visual Presentation"
+	},
+	"1.4.9 Images of Text (No Exception)": {
+	  "scope": "markdown",
+	  "prefix": "1.4.9 Images of Text (No Exception)",
+	  "body": [
+		"[1.4.9 Images of Text (No Exception) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/images-of-text-no-exception)"
+	  ],
+	  "description": "1.4.9 Images of Text (No Exception)"
+	},
+	"1.4.10 Reflow": {
+	  "scope": "markdown",
+	  "prefix": "1.4.10 Reflow",
+	  "body": [
+		"[1.4.10 Reflow (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/reflow)"
+	  ],
+	  "description": "1.4.10 Reflow"
+	},
+	"1.4.11 Non-text Contrast": {
+	  "scope": "markdown",
+	  "prefix": "1.4.11 Non-text Contrast",
+	  "body": [
+		"[1.4.11 Non-text Contrast (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast)"
+	  ],
+	  "description": "1.4.11 Non-text Contrast"
+	},
+	"1.4.12 Text Spacing": {
+	  "scope": "markdown",
+	  "prefix": "1.4.12 Text Spacing",
+	  "body": [
+		"[1.4.12 Text Spacing (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/text-spacing)"
+	  ],
+	  "description": "1.4.12 Text Spacing"
+	},
+	"1.4.13 Content on Hover or Focus": {
+	  "scope": "markdown",
+	  "prefix": "1.4.13 Content on Hover or Focus",
+	  "body": [
+		"[1.4.13 Content on Hover or Focus (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus)"
+	  ],
+	  "description": "1.4.13 Content on Hover or Focus"
+	},
+	"2.1 Keyboard Accessible": {
+	  "scope": "markdown",
+	  "prefix": "2.1 Keyboard Accessible",
+	  "body": [
+		"[2.1 Keyboard Accessible ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible)"
+	  ],
+	  "description": "2.1 Keyboard Accessible"
+	},
+	"2.1.1 Keyboard": {
+	  "scope": "markdown",
+	  "prefix": "2.1.1 Keyboard",
+	  "body": [
+		"[2.1.1 Keyboard (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/keyboard)"
+	  ],
+	  "description": "2.1.1 Keyboard"
+	},
+	"2.1.2 No Keyboard Trap": {
+	  "scope": "markdown",
+	  "prefix": "2.1.2 No Keyboard Trap",
+	  "body": [
+		"[2.1.2 No Keyboard Trap (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap)"
+	  ],
+	  "description": "2.1.2 No Keyboard Trap"
+	},
+	"2.1.3 Keyboard (No Exception)": {
+	  "scope": "markdown",
+	  "prefix": "2.1.3 Keyboard (No Exception)",
+	  "body": [
+		"[2.1.3 Keyboard (No Exception) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-no-exception)"
+	  ],
+	  "description": "2.1.3 Keyboard (No Exception)"
+	},
+	"2.1.4 Character Key Shortcuts": {
+	  "scope": "markdown",
+	  "prefix": "2.1.4 Character Key Shortcuts",
+	  "body": [
+		"[2.1.4 Character Key Shortcuts (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts)"
+	  ],
+	  "description": "2.1.4 Character Key Shortcuts"
+	},
+	"2.2 Enough Time": {
+	  "scope": "markdown",
+	  "prefix": "2.2 Enough Time",
+	  "body": [
+		"[2.2 Enough Time ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/enough-time)"
+	  ],
+	  "description": "2.2 Enough Time"
+	},
+	"2.2.1 Timing Adjustable": {
+	  "scope": "markdown",
+	  "prefix": "2.2.1 Timing Adjustable",
+	  "body": [
+		"[2.2.1 Timing Adjustable (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable)"
+	  ],
+	  "description": "2.2.1 Timing Adjustable"
+	},
+	"2.2.2 Pause, Stop, Hide": {
+	  "scope": "markdown",
+	  "prefix": "2.2.2 Pause, Stop, Hide",
+	  "body": [
+		"[2.2.2 Pause, Stop, Hide (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide)"
+	  ],
+	  "description": "2.2.2 Pause, Stop, Hide"
+	},
+	"2.2.3 No Timing": {
+	  "scope": "markdown",
+	  "prefix": "2.2.3 No Timing",
+	  "body": [
+		"[2.2.3 No Timing (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/no-timing)"
+	  ],
+	  "description": "2.2.3 No Timing"
+	},
+	"2.2.4 Interruptions": {
+	  "scope": "markdown",
+	  "prefix": "2.2.4 Interruptions",
+	  "body": [
+		"[2.2.4 Interruptions (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/interruptions)"
+	  ],
+	  "description": "2.2.4 Interruptions"
+	},
+	"2.2.5 Re-authenticating": {
+	  "scope": "markdown",
+	  "prefix": "2.2.5 Re-authenticating",
+	  "body": [
+		"[2.2.5 Re-authenticating (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating)"
+	  ],
+	  "description": "2.2.5 Re-authenticating"
+	},
+	"2.2.6 Timeouts": {
+	  "scope": "markdown",
+	  "prefix": "2.2.6 Timeouts",
+	  "body": [
+		"[2.2.6 Timeouts (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/timeouts)"
+	  ],
+	  "description": "2.2.6 Timeouts"
+	},
+	"2.3 Seizures and Physical Reactions": {
+	  "scope": "markdown",
+	  "prefix": "2.3 Seizures and Physical Reactions",
+	  "body": [
+		"[2.3 Seizures and Physical Reactions ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/seizures-and-physical-reactions)"
+	  ],
+	  "description": "2.3 Seizures and Physical Reactions"
+	},
+	"2.3.1 Three Flashes or Below Threshold": {
+	  "scope": "markdown",
+	  "prefix": "2.3.1 Three Flashes or Below Threshold",
+	  "body": [
+		"[2.3.1 Three Flashes or Below Threshold (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-threshold)"
+	  ],
+	  "description": "2.3.1 Three Flashes or Below Threshold"
+	},
+	"2.3.2 Three Flashes": {
+	  "scope": "markdown",
+	  "prefix": "2.3.2 Three Flashes",
+	  "body": [
+		"[2.3.2 Three Flashes (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/three-flashes)"
+	  ],
+	  "description": "2.3.2 Three Flashes"
+	},
+	"2.3.3 Animation from Interactions": {
+	  "scope": "markdown",
+	  "prefix": "2.3.3 Animation from Interactions",
+	  "body": [
+		"[2.3.3 Animation from Interactions (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions)"
+	  ],
+	  "description": "2.3.3 Animation from Interactions"
+	},
+	"2.4 Navigable": {
+	  "scope": "markdown",
+	  "prefix": "2.4 Navigable",
+	  "body": [
+		"[2.4 Navigable ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/navigable)"
+	  ],
+	  "description": "2.4 Navigable"
+	},
+	"2.4.1 Bypass Blocks": {
+	  "scope": "markdown",
+	  "prefix": "2.4.1 Bypass Blocks",
+	  "body": [
+		"[2.4.1 Bypass Blocks (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks)"
+	  ],
+	  "description": "2.4.1 Bypass Blocks"
+	},
+	"2.4.2 Page Titled": {
+	  "scope": "markdown",
+	  "prefix": "2.4.2 Page Titled",
+	  "body": [
+		"[2.4.2 Page Titled (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/page-titled)"
+	  ],
+	  "description": "2.4.2 Page Titled"
+	},
+	"2.4.3 Focus Order": {
+	  "scope": "markdown",
+	  "prefix": "2.4.3 Focus Order",
+	  "body": [
+		"[2.4.3 Focus Order (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/focus-order)"
+	  ],
+	  "description": "2.4.3 Focus Order"
+	},
+	"2.4.4 Link Purpose (In Context)": {
+	  "scope": "markdown",
+	  "prefix": "2.4.4 Link Purpose (In Context)",
+	  "body": [
+		"[2.4.4 Link Purpose (In Context) (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context)"
+	  ],
+	  "description": "2.4.4 Link Purpose (In Context)"
+	},
+	"2.4.5 Multiple Ways": {
+	  "scope": "markdown",
+	  "prefix": "2.4.5 Multiple Ways",
+	  "body": [
+		"[2.4.5 Multiple Ways (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways)"
+	  ],
+	  "description": "2.4.5 Multiple Ways"
+	},
+	"2.4.6 Headings and Labels": {
+	  "scope": "markdown",
+	  "prefix": "2.4.6 Headings and Labels",
+	  "body": [
+		"[2.4.6 Headings and Labels (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels)"
+	  ],
+	  "description": "2.4.6 Headings and Labels"
+	},
+	"2.4.7 Focus Visible": {
+	  "scope": "markdown",
+	  "prefix": "2.4.7 Focus Visible",
+	  "body": [
+		"[2.4.7 Focus Visible (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible)"
+	  ],
+	  "description": "2.4.7 Focus Visible"
+	},
+	"2.4.8 Location": {
+	  "scope": "markdown",
+	  "prefix": "2.4.8 Location",
+	  "body": [
+		"[2.4.8 Location (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/location)"
+	  ],
+	  "description": "2.4.8 Location"
+	},
+	"2.4.9 Link Purpose (Link Only)": {
+	  "scope": "markdown",
+	  "prefix": "2.4.9 Link Purpose (Link Only)",
+	  "body": [
+		"[2.4.9 Link Purpose (Link Only) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only)"
+	  ],
+	  "description": "2.4.9 Link Purpose (Link Only)"
+	},
+	"2.4.10 Section Headings": {
+	  "scope": "markdown",
+	  "prefix": "2.4.10 Section Headings",
+	  "body": [
+		"[2.4.10 Section Headings (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/section-headings)"
+	  ],
+	  "description": "2.4.10 Section Headings"
+	},
+	"2.4.11 Focus Not Obscured (Minimum)": {
+	  "scope": "markdown",
+	  "prefix": "2.4.11 Focus Not Obscured (Minimum)",
+	  "body": [
+		"[2.4.11 Focus Not Obscured (Minimum) (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum)"
+	  ],
+	  "description": "2.4.11 Focus Not Obscured (Minimum)"
+	},
+	"2.4.12 Focus Not Obscured (Enhanced)": {
+	  "scope": "markdown",
+	  "prefix": "2.4.12 Focus Not Obscured (Enhanced)",
+	  "body": [
+		"[2.4.12 Focus Not Obscured (Enhanced) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced)"
+	  ],
+	  "description": "2.4.12 Focus Not Obscured (Enhanced)"
+	},
+	"2.4.13 Focus Appearance": {
+	  "scope": "markdown",
+	  "prefix": "2.4.13 Focus Appearance",
+	  "body": [
+		"[2.4.13 Focus Appearance (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance)"
+	  ],
+	  "description": "2.4.13 Focus Appearance"
+	},
+	"2.5 Input Modalities": {
+	  "scope": "markdown",
+	  "prefix": "2.5 Input Modalities",
+	  "body": [
+		"[2.5 Input Modalities ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/input-modalities)"
+	  ],
+	  "description": "2.5 Input Modalities"
+	},
+	"2.5.1 Pointer Gestures": {
+	  "scope": "markdown",
+	  "prefix": "2.5.1 Pointer Gestures",
+	  "body": [
+		"[2.5.1 Pointer Gestures (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/pointer-gestures)"
+	  ],
+	  "description": "2.5.1 Pointer Gestures"
+	},
+	"2.5.2 Pointer Cancellation": {
+	  "scope": "markdown",
+	  "prefix": "2.5.2 Pointer Cancellation",
+	  "body": [
+		"[2.5.2 Pointer Cancellation (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation)"
+	  ],
+	  "description": "2.5.2 Pointer Cancellation"
+	},
+	"2.5.3 Label in Name": {
+	  "scope": "markdown",
+	  "prefix": "2.5.3 Label in Name",
+	  "body": [
+		"[2.5.3 Label in Name (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/label-in-name)"
+	  ],
+	  "description": "2.5.3 Label in Name"
+	},
+	"2.5.4 Motion Actuation": {
+	  "scope": "markdown",
+	  "prefix": "2.5.4 Motion Actuation",
+	  "body": [
+		"[2.5.4 Motion Actuation (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/motion-actuation)"
+	  ],
+	  "description": "2.5.4 Motion Actuation"
+	},
+	"2.5.5 Target Size (Enhanced)": {
+	  "scope": "markdown",
+	  "prefix": "2.5.5 Target Size (Enhanced)",
+	  "body": [
+		"[2.5.5 Target Size (Enhanced) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced)"
+	  ],
+	  "description": "2.5.5 Target Size (Enhanced)"
+	},
+	"2.5.6 Concurrent Input Mechanisms": {
+	  "scope": "markdown",
+	  "prefix": "2.5.6 Concurrent Input Mechanisms",
+	  "body": [
+		"[2.5.6 Concurrent Input Mechanisms (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/concurrent-input-mechanisms)"
+	  ],
+	  "description": "2.5.6 Concurrent Input Mechanisms"
+	},
+	"2.5.7 Dragging Movements": {
+	  "scope": "markdown",
+	  "prefix": "2.5.7 Dragging Movements",
+	  "body": [
+		"[2.5.7 Dragging Movements (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements)"
+	  ],
+	  "description": "2.5.7 Dragging Movements"
+	},
+	"2.5.8 Target Size (Minimum)": {
+	  "scope": "markdown",
+	  "prefix": "2.5.8 Target Size (Minimum)",
+	  "body": [
+		"[2.5.8 Target Size (Minimum) (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum)"
+	  ],
+	  "description": "2.5.8 Target Size (Minimum)"
+	},
+	"3.1 Readable": {
+	  "scope": "markdown",
+	  "prefix": "3.1 Readable",
+	  "body": [
+		"[3.1 Readable ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/readable)"
+	  ],
+	  "description": "3.1 Readable"
+	},
+	"3.1.1 Language of Page": {
+	  "scope": "markdown",
+	  "prefix": "3.1.1 Language of Page",
+	  "body": [
+		"[3.1.1 Language of Page (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page)"
+	  ],
+	  "description": "3.1.1 Language of Page"
+	},
+	"3.1.2 Language of Parts": {
+	  "scope": "markdown",
+	  "prefix": "3.1.2 Language of Parts",
+	  "body": [
+		"[3.1.2 Language of Parts (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts)"
+	  ],
+	  "description": "3.1.2 Language of Parts"
+	},
+	"3.1.3 Unusual Words": {
+	  "scope": "markdown",
+	  "prefix": "3.1.3 Unusual Words",
+	  "body": [
+		"[3.1.3 Unusual Words (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/unusual-words)"
+	  ],
+	  "description": "3.1.3 Unusual Words"
+	},
+	"3.1.4 Abbreviations": {
+	  "scope": "markdown",
+	  "prefix": "3.1.4 Abbreviations",
+	  "body": [
+		"[3.1.4 Abbreviations (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/abbreviations)"
+	  ],
+	  "description": "3.1.4 Abbreviations"
+	},
+	"3.1.5 Reading Level": {
+	  "scope": "markdown",
+	  "prefix": "3.1.5 Reading Level",
+	  "body": [
+		"[3.1.5 Reading Level (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/reading-level)"
+	  ],
+	  "description": "3.1.5 Reading Level"
+	},
+	"3.1.6 Pronunciation": {
+	  "scope": "markdown",
+	  "prefix": "3.1.6 Pronunciation",
+	  "body": [
+		"[3.1.6 Pronunciation (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/pronunciation)"
+	  ],
+	  "description": "3.1.6 Pronunciation"
+	},
+	"3.2 Predictable": {
+	  "scope": "markdown",
+	  "prefix": "3.2 Predictable",
+	  "body": [
+		"[3.2 Predictable ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/predictable)"
+	  ],
+	  "description": "3.2 Predictable"
+	},
+	"3.2.1 On Focus": {
+	  "scope": "markdown",
+	  "prefix": "3.2.1 On Focus",
+	  "body": [
+		"[3.2.1 On Focus (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/on-focus)"
+	  ],
+	  "description": "3.2.1 On Focus"
+	},
+	"3.2.2 On Input": {
+	  "scope": "markdown",
+	  "prefix": "3.2.2 On Input",
+	  "body": [
+		"[3.2.2 On Input (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/on-input)"
+	  ],
+	  "description": "3.2.2 On Input"
+	},
+	"3.2.3 Consistent Navigation": {
+	  "scope": "markdown",
+	  "prefix": "3.2.3 Consistent Navigation",
+	  "body": [
+		"[3.2.3 Consistent Navigation (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation)"
+	  ],
+	  "description": "3.2.3 Consistent Navigation"
+	},
+	"3.2.4 Consistent Identification": {
+	  "scope": "markdown",
+	  "prefix": "3.2.4 Consistent Identification",
+	  "body": [
+		"[3.2.4 Consistent Identification (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification)"
+	  ],
+	  "description": "3.2.4 Consistent Identification"
+	},
+	"3.2.5 Change on Request": {
+	  "scope": "markdown",
+	  "prefix": "3.2.5 Change on Request",
+	  "body": [
+		"[3.2.5 Change on Request (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/change-on-request)"
+	  ],
+	  "description": "3.2.5 Change on Request"
+	},
+	"3.2.6 Consistent Help": {
+	  "scope": "markdown",
+	  "prefix": "3.2.6 Consistent Help",
+	  "body": [
+		"[3.2.6 Consistent Help (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help)"
+	  ],
+	  "description": "3.2.6 Consistent Help"
+	},
+	"3.3 Input Assistance": {
+	  "scope": "markdown",
+	  "prefix": "3.3 Input Assistance",
+	  "body": [
+		"[3.3 Input Assistance ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/input-assistance)"
+	  ],
+	  "description": "3.3 Input Assistance"
+	},
+	"3.3.1 Error Identification": {
+	  "scope": "markdown",
+	  "prefix": "3.3.1 Error Identification",
+	  "body": [
+		"[3.3.1 Error Identification (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/error-identification)"
+	  ],
+	  "description": "3.3.1 Error Identification"
+	},
+	"3.3.2 Labels or Instructions": {
+	  "scope": "markdown",
+	  "prefix": "3.3.2 Labels or Instructions",
+	  "body": [
+		"[3.3.2 Labels or Instructions (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions)"
+	  ],
+	  "description": "3.3.2 Labels or Instructions"
+	},
+	"3.3.3 Error Suggestion": {
+	  "scope": "markdown",
+	  "prefix": "3.3.3 Error Suggestion",
+	  "body": [
+		"[3.3.3 Error Suggestion (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion)"
+	  ],
+	  "description": "3.3.3 Error Suggestion"
+	},
+	"3.3.4 Error Prevention (Legal, Financial, Data)": {
+	  "scope": "markdown",
+	  "prefix": "3.3.4 Error Prevention (Legal, Financial, Data)",
+	  "body": [
+		"[3.3.4 Error Prevention (Legal, Financial, Data) (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data)"
+	  ],
+	  "description": "3.3.4 Error Prevention (Legal, Financial, Data)"
+	},
+	"3.3.5 Help": {
+	  "scope": "markdown",
+	  "prefix": "3.3.5 Help",
+	  "body": [
+		"[3.3.5 Help (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/help)"
+	  ],
+	  "description": "3.3.5 Help"
+	},
+	"3.3.6 Error Prevention (All)": {
+	  "scope": "markdown",
+	  "prefix": "3.3.6 Error Prevention (All)",
+	  "body": [
+		"[3.3.6 Error Prevention (All) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-all)"
+	  ],
+	  "description": "3.3.6 Error Prevention (All)"
+	},
+	"3.3.7 Redundant Entry": {
+	  "scope": "markdown",
+	  "prefix": "3.3.7 Redundant Entry",
+	  "body": [
+		"[3.3.7 Redundant Entry (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry)"
+	  ],
+	  "description": "3.3.7 Redundant Entry"
+	},
+	"3.3.8 Accessible Authentication (Minimum)": {
+	  "scope": "markdown",
+	  "prefix": "3.3.8 Accessible Authentication (Minimum)",
+	  "body": [
+		"[3.3.8 Accessible Authentication (Minimum) (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum)"
+	  ],
+	  "description": "3.3.8 Accessible Authentication (Minimum)"
+	},
+	"3.3.9 Accessible Authentication (Enhanced)": {
+	  "scope": "markdown",
+	  "prefix": "3.3.9 Accessible Authentication (Enhanced)",
+	  "body": [
+		"[3.3.9 Accessible Authentication (Enhanced) (AAA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced)"
+	  ],
+	  "description": "3.3.9 Accessible Authentication (Enhanced)"
+	},
+	"4.1 Compatible": {
+	  "scope": "markdown",
+	  "prefix": "4.1 Compatible",
+	  "body": [
+		"[4.1 Compatible ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/compatible)"
+	  ],
+	  "description": "4.1 Compatible"
+	},
+	"4.1.1 Parsing (Obsolete and removed)": {
+	  "scope": "markdown",
+	  "prefix": "4.1.1 Parsing (Obsolete and removed)",
+	  "body": [
+		"[4.1.1 Parsing (Obsolete and removed) (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/parsing)"
+	  ],
+	  "description": "4.1.1 Parsing (Obsolete and removed)"
+	},
+	"4.1.2 Name, Role, Value": {
+	  "scope": "markdown",
+	  "prefix": "4.1.2 Name, Role, Value",
+	  "body": [
+		"[4.1.2 Name, Role, Value (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/name-role-value)"
+	  ],
+	  "description": "4.1.2 Name, Role, Value"
+	},
+	"4.1.3 Status Messages": {
+	  "scope": "markdown",
+	  "prefix": "4.1.3 Status Messages",
+	  "body": [
+		"[4.1.3 Status Messages (AA) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/status-messages)"
+	  ],
+	  "description": "4.1.3 Status Messages"
+	},
+	"area-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <area> elements of image maps have alternate text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <area> elements of image maps have alternate text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/area-alt)"
+	  ],
+	  "description": "Ensure <area> elements of image maps have alternate text"
+	},
+	"aria-allowed-attr": {
+	  "scope": "markdown",
+	  "prefix": "Ensure an element's role supports its ARIA attributes",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure an element's role supports its ARIA attributes ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-allowed-attr)"
+	  ],
+	  "description": "Ensure an element's role supports its ARIA attributes"
+	},
+	"aria-braille-equivalent": {
+	  "scope": "markdown",
+	  "prefix": "Ensure aria-braillelabel and aria-brailleroledescription have a non-braille equivalent",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure aria-braillelabel and aria-brailleroledescription have a non-braille equivalent ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-braille-equivalent)"
+	  ],
+	  "description": "Ensure aria-braillelabel and aria-brailleroledescription have a non-braille equivalent"
+	},
+	"aria-command-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA button, link and menuitem has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA button, link and menuitem has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-command-name)"
+	  ],
+	  "description": "Ensure every ARIA button, link and menuitem has an accessible name"
+	},
+	"aria-conditional-attr": {
+	  "scope": "markdown",
+	  "prefix": "Ensure ARIA attributes are used as described in the specification of the element's role",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure ARIA attributes are used as described in the specification of the element's role ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-conditional-attr)"
+	  ],
+	  "description": "Ensure ARIA attributes are used as described in the specification of the element's role"
+	},
+	"aria-deprecated-role": {
+	  "scope": "markdown",
+	  "prefix": "Ensure elements do not use deprecated roles",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure elements do not use deprecated roles ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-deprecated-role)"
+	  ],
+	  "description": "Ensure elements do not use deprecated roles"
+	},
+	"aria-hidden-body": {
+	  "scope": "markdown",
+	  "prefix": "Ensure aria-hidden=\"true\" is not present on the document body.",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure aria-hidden=\"true\" is not present on the document body. ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-hidden-body)"
+	  ],
+	  "description": "Ensure aria-hidden=\"true\" is not present on the document body."
+	},
+	"aria-hidden-focus": {
+	  "scope": "markdown",
+	  "prefix": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure aria-hidden elements are not focusable nor contain focusable elements ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-hidden-focus)"
+	  ],
+	  "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements"
+	},
+	"aria-input-field-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA input field has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA input field has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-input-field-name)"
+	  ],
+	  "description": "Ensure every ARIA input field has an accessible name"
+	},
+	"aria-meter-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA meter node has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA meter node has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-meter-name)"
+	  ],
+	  "description": "Ensure every ARIA meter node has an accessible name"
+	},
+	"aria-progressbar-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA progressbar node has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA progressbar node has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-progressbar-name)"
+	  ],
+	  "description": "Ensure every ARIA progressbar node has an accessible name"
+	},
+	"aria-prohibited-attr": {
+	  "scope": "markdown",
+	  "prefix": "Ensure ARIA attributes are not prohibited for an element's role",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure ARIA attributes are not prohibited for an element's role ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-prohibited-attr)"
+	  ],
+	  "description": "Ensure ARIA attributes are not prohibited for an element's role"
+	},
+	"aria-required-attr": {
+	  "scope": "markdown",
+	  "prefix": "Ensure elements with ARIA roles have all required ARIA attributes",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure elements with ARIA roles have all required ARIA attributes ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-required-attr)"
+	  ],
+	  "description": "Ensure elements with ARIA roles have all required ARIA attributes"
+	},
+	"aria-required-children": {
+	  "scope": "markdown",
+	  "prefix": "Ensure elements with an ARIA role that require child roles contain them",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure elements with an ARIA role that require child roles contain them ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-required-children)"
+	  ],
+	  "description": "Ensure elements with an ARIA role that require child roles contain them"
+	},
+	"aria-required-parent": {
+	  "scope": "markdown",
+	  "prefix": "Ensure elements with an ARIA role that require parent roles are contained by them",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure elements with an ARIA role that require parent roles are contained by them ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-required-parent)"
+	  ],
+	  "description": "Ensure elements with an ARIA role that require parent roles are contained by them"
+	},
+	"aria-roles": {
+	  "scope": "markdown",
+	  "prefix": "Ensure all elements with a role attribute use a valid value",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure all elements with a role attribute use a valid value ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-roles)"
+	  ],
+	  "description": "Ensure all elements with a role attribute use a valid value"
+	},
+	"aria-toggle-field-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA toggle field has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA toggle field has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-toggle-field-name)"
+	  ],
+	  "description": "Ensure every ARIA toggle field has an accessible name"
+	},
+	"aria-tooltip-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA tooltip node has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA tooltip node has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-tooltip-name)"
+	  ],
+	  "description": "Ensure every ARIA tooltip node has an accessible name"
+	},
+	"aria-valid-attr-value": {
+	  "scope": "markdown",
+	  "prefix": "Ensure all ARIA attributes have valid values",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure all ARIA attributes have valid values ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-valid-attr-value)"
+	  ],
+	  "description": "Ensure all ARIA attributes have valid values"
+	},
+	"aria-valid-attr": {
+	  "scope": "markdown",
+	  "prefix": "Ensure attributes that begin with aria- are valid ARIA attributes",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure attributes that begin with aria- are valid ARIA attributes ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-valid-attr)"
+	  ],
+	  "description": "Ensure attributes that begin with aria- are valid ARIA attributes"
+	},
+	"blink": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <blink> elements are not used",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <blink> elements are not used ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/blink)"
+	  ],
+	  "description": "Ensure <blink> elements are not used"
+	},
+	"button-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure buttons have discernible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure buttons have discernible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/button-name)"
+	  ],
+	  "description": "Ensure buttons have discernible text"
+	},
+	"bypass": {
+	  "scope": "markdown",
+	  "prefix": "Ensure each page has at least one mechanism for a user to bypass navigation and jump straight to the content",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure each page has at least one mechanism for a user to bypass navigation and jump straight to the content ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/bypass)"
+	  ],
+	  "description": "Ensure each page has at least one mechanism for a user to bypass navigation and jump straight to the content"
+	},
+	"color-contrast": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/color-contrast)"
+	  ],
+	  "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
+	},
+	"definition-list": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <dl> elements are structured correctly",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <dl> elements are structured correctly ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/definition-list)"
+	  ],
+	  "description": "Ensure <dl> elements are structured correctly"
+	},
+	"dlitem": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <dt> and <dd> elements are contained by a <dl>",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <dt> and <dd> elements are contained by a <dl> ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/dlitem)"
+	  ],
+	  "description": "Ensure <dt> and <dd> elements are contained by a <dl>"
+	},
+	"document-title": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <area> elements of image maps have alternate text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <area> elements of image maps have alternate text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/document-title)"
+	  ],
+	  "description": "Ensure <area> elements of image maps have alternate text"
+	},
+	"duplicate-id-aria": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every id attribute value used in ARIA and in labels is unique",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every id attribute value used in ARIA and in labels is unique ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/duplicate-id-aria)"
+	  ],
+	  "description": "Ensure every id attribute value used in ARIA and in labels is unique"
+	},
+	"form-field-multiple-labels": {
+	  "scope": "markdown",
+	  "prefix": "Ensure form field does not have multiple label elements",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure form field does not have multiple label elements ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/form-field-multiple-labels)"
+	  ],
+	  "description": "Ensure form field does not have multiple label elements"
+	},
+	"frame-focusable-content": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <frame> and <iframe> elements with focusable content do not have tabindex=-1",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <frame> and <iframe> elements with focusable content do not have tabindex=-1 ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/frame-focusable-content)"
+	  ],
+	  "description": "Ensure <frame> and <iframe> elements with focusable content do not have tabindex=-1"
+	},
+	"frame-title-unique": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <iframe> and <frame> elements contain a unique title attribute",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <iframe> and <frame> elements contain a unique title attribute ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/frame-title-unique)"
+	  ],
+	  "description": "Ensure <iframe> and <frame> elements contain a unique title attribute"
+	},
+	"frame-title": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <iframe> and <frame> elements have an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <iframe> and <frame> elements have an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/frame-title)"
+	  ],
+	  "description": "Ensure <iframe> and <frame> elements have an accessible name"
+	},
+	"html-has-lang": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every HTML document has a lang attribute",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every HTML document has a lang attribute ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/html-has-lang)"
+	  ],
+	  "description": "Ensure every HTML document has a lang attribute"
+	},
+	"html-lang-valid": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the lang attribute of the <html> element has a valid value",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the lang attribute of the <html> element has a valid value ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/html-lang-valid)"
+	  ],
+	  "description": "Ensure the lang attribute of the <html> element has a valid value"
+	},
+	"html-xml-lang-mismatch": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that HTML elements with both valid lang and xml:lang attributes agree on the base language of the page",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that HTML elements with both valid lang and xml:lang attributes agree on the base language of the page ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/html-xml-lang-mismatch)"
+	  ],
+	  "description": "Ensure that HTML elements with both valid lang and xml:lang attributes agree on the base language of the page"
+	},
+	"image-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <img> elements have alternate text or a role of none or presentation",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <img> elements have alternate text or a role of none or presentation ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/image-alt)"
+	  ],
+	  "description": "Ensure <img> elements have alternate text or a role of none or presentation"
+	},
+	"input-button-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure input buttons have discernible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure input buttons have discernible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/input-button-name)"
+	  ],
+	  "description": "Ensure input buttons have discernible text"
+	},
+	"input-image-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <input type=\"image\"> elements have alternate text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <input type=\"image\"> elements have alternate text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/input-image-alt)"
+	  ],
+	  "description": "Ensure <input type=\"image\"> elements have alternate text"
+	},
+	"label": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every form element has a label",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every form element has a label ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/label)"
+	  ],
+	  "description": "Ensure every form element has a label"
+	},
+	"link-in-text-block": {
+	  "scope": "markdown",
+	  "prefix": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure links are distinguished from surrounding text in a way that does not rely on color ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/link-in-text-block)"
+	  ],
+	  "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color"
+	},
+	"link-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure links have discernible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure links have discernible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/link-name)"
+	  ],
+	  "description": "Ensure links have discernible text"
+	},
+	"list": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that lists are structured correctly",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that lists are structured correctly ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/list)"
+	  ],
+	  "description": "Ensure that lists are structured correctly"
+	},
+	"listitem": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <li> elements are used semantically",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <li> elements are used semantically ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/listitem)"
+	  ],
+	  "description": "Ensure <li> elements are used semantically"
+	},
+	"marquee": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <marquee> elements are not used",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <marquee> elements are not used ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/marquee)"
+	  ],
+	  "description": "Ensure <marquee> elements are not used"
+	},
+	"meta-refresh": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/meta-refresh)"
+	  ],
+	  "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh"
+	},
+	"meta-viewport": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <meta name=\"viewport\"> does not disable text scaling and zooming ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/meta-viewport)"
+	  ],
+	  "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming"
+	},
+	"nested-interactive": {
+	  "scope": "markdown",
+	  "prefix": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/nested-interactive)"
+	  ],
+	  "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies"
+	},
+	"no-autoplay-audio": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <video> or <audio> elements do not autoplay audio for more than 3 seconds without a control mechanism to stop or mute the audio",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <video> or <audio> elements do not autoplay audio for more than 3 seconds without a control mechanism to stop or mute the audio ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/no-autoplay-audio)"
+	  ],
+	  "description": "Ensure <video> or <audio> elements do not autoplay audio for more than 3 seconds without a control mechanism to stop or mute the audio"
+	},
+	"object-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <object> elements have alternate text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <object> elements have alternate text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/object-alt)"
+	  ],
+	  "description": "Ensure <object> elements have alternate text"
+	},
+	"role-img-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure [role=\"img\"] elements have alternate text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure [role=\"img\"] elements have alternate text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/role-img-alt)"
+	  ],
+	  "description": "Ensure [role=\"img\"] elements have alternate text"
+	},
+	"scrollable-region-focusable": {
+	  "scope": "markdown",
+	  "prefix": "Ensure elements that have scrollable content are accessible by keyboard",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure elements that have scrollable content are accessible by keyboard ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/scrollable-region-focusable)"
+	  ],
+	  "description": "Ensure elements that have scrollable content are accessible by keyboard"
+	},
+	"select-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure select element has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure select element has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/select-name)"
+	  ],
+	  "description": "Ensure select element has an accessible name"
+	},
+	"server-side-image-map": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that server-side image maps are not used",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that server-side image maps are not used ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/server-side-image-map)"
+	  ],
+	  "description": "Ensure that server-side image maps are not used"
+	},
+	"summary-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure summary elements have discernible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure summary elements have discernible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/summary-name)"
+	  ],
+	  "description": "Ensure summary elements have discernible text"
+	},
+	"svg-img-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/svg-img-alt)"
+	  ],
+	  "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text"
+	},
+	"td-headers-attr": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that each cell in a table that uses the headers attribute refers only to other cells in that table",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that each cell in a table that uses the headers attribute refers only to other cells in that table ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/td-headers-attr)"
+	  ],
+	  "description": "Ensure that each cell in a table that uses the headers attribute refers only to other cells in that table"
+	},
+	"th-has-data-cells": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that <th> elements and elements with role=columnheader/rowheader have data cells they describe",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that <th> elements and elements with role=columnheader/rowheader have data cells they describe ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/th-has-data-cells)"
+	  ],
+	  "description": "Ensure that <th> elements and elements with role=columnheader/rowheader have data cells they describe"
+	},
+	"valid-lang": {
+	  "scope": "markdown",
+	  "prefix": "Ensure lang attributes have valid values",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure lang attributes have valid values ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/valid-lang)"
+	  ],
+	  "description": "Ensure lang attributes have valid values"
+	},
+	"video-caption": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <video> elements have captions",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <video> elements have captions ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/video-caption)"
+	  ],
+	  "description": "Ensure <video> elements have captions"
+	},
+	"autocomplete-valid": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the autocomplete attribute is correct and suitable for the form field",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the autocomplete attribute is correct and suitable for the form field ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/autocomplete-valid)"
+	  ],
+	  "description": "Ensure the autocomplete attribute is correct and suitable for the form field"
+	},
+	"avoid-inline-spacing": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that text spacing set through style attributes can be adjusted with custom stylesheets",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that text spacing set through style attributes can be adjusted with custom stylesheets ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/avoid-inline-spacing)"
+	  ],
+	  "description": "Ensure that text spacing set through style attributes can be adjusted with custom stylesheets"
+	},
+	"target-size": {
+	  "scope": "markdown",
+	  "prefix": "Ensure touch targets have sufficient size and space",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure touch targets have sufficient size and space ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/target-size)"
+	  ],
+	  "description": "Ensure touch targets have sufficient size and space"
+	},
+	"accesskeys": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every accesskey attribute value is unique",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every accesskey attribute value is unique ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/accesskeys)"
+	  ],
+	  "description": "Ensure every accesskey attribute value is unique"
+	},
+	"aria-allowed-role": {
+	  "scope": "markdown",
+	  "prefix": "Ensure role attribute has an appropriate value for the element",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure role attribute has an appropriate value for the element ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-allowed-role)"
+	  ],
+	  "description": "Ensure role attribute has an appropriate value for the element"
+	},
+	"aria-dialog-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA dialog and alertdialog node has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name)"
+	  ],
+	  "description": "Ensure every ARIA dialog and alertdialog node has an accessible name"
+	},
+	"aria-text": {
+	  "scope": "markdown",
+	  "prefix": "Ensure role=\"text\" is used on elements with no focusable descendants",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure role=\"text\" is used on elements with no focusable descendants ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-text)"
+	  ],
+	  "description": "Ensure role=\"text\" is used on elements with no focusable descendants"
+	},
+	"aria-treeitem-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure every ARIA treeitem node has an accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure every ARIA treeitem node has an accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/aria-treeitem-name)"
+	  ],
+	  "description": "Ensure every ARIA treeitem node has an accessible name"
+	},
+	"empty-heading": {
+	  "scope": "markdown",
+	  "prefix": "Ensure headings have discernible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure headings have discernible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/empty-heading)"
+	  ],
+	  "description": "Ensure headings have discernible text"
+	},
+	"empty-table-header": {
+	  "scope": "markdown",
+	  "prefix": "Ensure table headers have discernible text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure table headers have discernible text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/empty-table-header)"
+	  ],
+	  "description": "Ensure table headers have discernible text"
+	},
+	"frame-tested": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <iframe> and <frame> elements contain the axe-core script",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <iframe> and <frame> elements contain the axe-core script ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/frame-tested)"
+	  ],
+	  "description": "Ensure <iframe> and <frame> elements contain the axe-core script"
+	},
+	"heading-order": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the order of headings is semantically correct",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the order of headings is semantically correct ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/heading-order)"
+	  ],
+	  "description": "Ensure the order of headings is semantically correct"
+	},
+	"image-redundant-alt": {
+	  "scope": "markdown",
+	  "prefix": "Ensure image alternative is not repeated as text",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure image alternative is not repeated as text ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/image-redundant-alt)"
+	  ],
+	  "description": "Ensure image alternative is not repeated as text"
+	},
+	"label-title-only": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that every form element has a visible label and is not solely labeled using hidden labels, or the title or aria-describedby attributes",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that every form element has a visible label and is not solely labeled using hidden labels, or the title or aria-describedby attributes ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/label-title-only)"
+	  ],
+	  "description": "Ensure that every form element has a visible label and is not solely labeled using hidden labels, or the title or aria-describedby attributes"
+	},
+	"landmark-banner-is-top-level": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the banner landmark is at top level",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the banner landmark is at top level ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-banner-is-top-level)"
+	  ],
+	  "description": "Ensure the banner landmark is at top level"
+	},
+	"landmark-complementary-is-top-level": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the complementary landmark or aside is at top level",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the complementary landmark or aside is at top level ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-complementary-is-top-level)"
+	  ],
+	  "description": "Ensure the complementary landmark or aside is at top level"
+	},
+	"landmark-contentinfo-is-top-level": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the contentinfo landmark is at top level",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the contentinfo landmark is at top level ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-contentinfo-is-top-level)"
+	  ],
+	  "description": "Ensure the contentinfo landmark is at top level"
+	},
+	"landmark-main-is-top-level": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the main landmark is at top level",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the main landmark is at top level ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-main-is-top-level)"
+	  ],
+	  "description": "Ensure the main landmark is at top level"
+	},
+	"landmark-no-duplicate-banner": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the document has at most one banner landmark",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the document has at most one banner landmark ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-no-duplicate-banner)"
+	  ],
+	  "description": "Ensure the document has at most one banner landmark"
+	},
+	"landmark-no-duplicate-contentinfo": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the document has at most one contentinfo landmark",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the document has at most one contentinfo landmark ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-no-duplicate-contentinfo)"
+	  ],
+	  "description": "Ensure the document has at most one contentinfo landmark"
+	},
+	"landmark-no-duplicate-main": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the document has at most one main landmark",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the document has at most one main landmark ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-no-duplicate-main)"
+	  ],
+	  "description": "Ensure the document has at most one main landmark"
+	},
+	"landmark-one-main": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the document has a main landmark",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the document has a main landmark ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-one-main)"
+	  ],
+	  "description": "Ensure the document has a main landmark"
+	},
+	"landmark-unique": {
+	  "scope": "markdown",
+	  "prefix": "Ensure landmarks are unique",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure landmarks are unique ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/landmark-unique)"
+	  ],
+	  "description": "Ensure landmarks are unique"
+	},
+	"meta-viewport-large": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <meta name=\"viewport\"> can scale a significant amount",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <meta name=\"viewport\"> can scale a significant amount ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/meta-viewport-large)"
+	  ],
+	  "description": "Ensure <meta name=\"viewport\"> can scale a significant amount"
+	},
+	"page-has-heading-one": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that the page, or at least one of its frames contains a level-one heading",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that the page, or at least one of its frames contains a level-one heading ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/page-has-heading-one)"
+	  ],
+	  "description": "Ensure that the page, or at least one of its frames contains a level-one heading"
+	},
+	"presentation-role-conflict": {
+	  "scope": "markdown",
+	  "prefix": "Elements marked as presentational should not have global ARIA or tabindex to ensure all screen readers ignore them",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Elements marked as presentational should not have global ARIA or tabindex to ensure all screen readers ignore them ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/presentation-role-conflict)"
+	  ],
+	  "description": "Elements marked as presentational should not have global ARIA or tabindex to ensure all screen readers ignore them"
+	},
+	"region": {
+	  "scope": "markdown",
+	  "prefix": "Ensure all page content is contained by landmarks",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure all page content is contained by landmarks ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/region)"
+	  ],
+	  "description": "Ensure all page content is contained by landmarks"
+	},
+	"scope-attr-valid": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the scope attribute is used correctly on tables",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the scope attribute is used correctly on tables ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/scope-attr-valid)"
+	  ],
+	  "description": "Ensure the scope attribute is used correctly on tables"
+	},
+	"skip-link": {
+	  "scope": "markdown",
+	  "prefix": "Ensure all skip links have a focusable target",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure all skip links have a focusable target ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/skip-link)"
+	  ],
+	  "description": "Ensure all skip links have a focusable target"
+	},
+	"tabindex": {
+	  "scope": "markdown",
+	  "prefix": "Ensure tabindex attribute values are not greater than 0",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure tabindex attribute values are not greater than 0 ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/tabindex)"
+	  ],
+	  "description": "Ensure tabindex attribute values are not greater than 0"
+	},
+	"table-duplicate-name": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the <caption> element does not contain the same text as the summary attribute",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the <caption> element does not contain the same text as the summary attribute ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/table-duplicate-name)"
+	  ],
+	  "description": "Ensure the <caption> element does not contain the same text as the summary attribute"
+	},
+	"color-contrast-enhanced": {
+	  "scope": "markdown",
+	  "prefix": "Ensure the contrast between foreground and background colors meets WCAG 2 AAA enhanced contrast ratio thresholds",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure the contrast between foreground and background colors meets WCAG 2 AAA enhanced contrast ratio thresholds ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/color-contrast-enhanced)"
+	  ],
+	  "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AAA enhanced contrast ratio thresholds"
+	},
+	"identical-links-same-purpose": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that links with the same accessible name serve a similar purpose",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that links with the same accessible name serve a similar purpose ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/identical-links-same-purpose)"
+	  ],
+	  "description": "Ensure that links with the same accessible name serve a similar purpose"
+	},
+	"meta-refresh-no-exceptions": {
+	  "scope": "markdown",
+	  "prefix": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/meta-refresh-no-exceptions)"
+	  ],
+	  "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh"
+	},
+	"css-orientation-lock": {
+	  "scope": "markdown",
+	  "prefix": "Ensure content is not locked to any specific display orientation, and the content is operable in all display orientations",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure content is not locked to any specific display orientation, and the content is operable in all display orientations ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/css-orientation-lock)"
+	  ],
+	  "description": "Ensure content is not locked to any specific display orientation, and the content is operable in all display orientations"
+	},
+	"focus-order-semantics": {
+	  "scope": "markdown",
+	  "prefix": "Ensure elements in the focus order have a role appropriate for interactive content",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure elements in the focus order have a role appropriate for interactive content ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/focus-order-semantics)"
+	  ],
+	  "description": "Ensure elements in the focus order have a role appropriate for interactive content"
+	},
+	"hidden-content": {
+	  "scope": "markdown",
+	  "prefix": "Informs users about hidden content",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Informs users about hidden content ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/hidden-content)"
+	  ],
+	  "description": "Informs users about hidden content"
+	},
+	"label-content-name-mismatch": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that elements labelled through their content must have their visible text as part of their accessible name",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that elements labelled through their content must have their visible text as part of their accessible name ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/label-content-name-mismatch)"
+	  ],
+	  "description": "Ensure that elements labelled through their content must have their visible text as part of their accessible name"
+	},
+	"p-as-heading": {
+	  "scope": "markdown",
+	  "prefix": "Ensure bold, italic text and font-size is not used to style <p> elements as a heading",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure bold, italic text and font-size is not used to style <p> elements as a heading ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/p-as-heading)"
+	  ],
+	  "description": "Ensure bold, italic text and font-size is not used to style <p> elements as a heading"
+	},
+	"table-fake-caption": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that tables with a caption use the <caption> element",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that tables with a caption use the <caption> element ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/table-fake-caption)"
+	  ],
+	  "description": "Ensure that tables with a caption use the <caption> element"
+	},
+	"td-has-header": {
+	  "scope": "markdown",
+	  "prefix": "Ensure that each non-empty data cell in a <table> larger than 3 by 3 has one or more table headers",
+	  "body": [
+		"[<img src=\"assets/deque_university_wordmark.png\" alt=\"deque university\" height=\"16px\"> Ensure that each non-empty data cell in a <table> larger than 3 by 3 has one or more table headers ![external link](assets/external-link.svg)](https://dequeuniversity.com/rules/axe/4.10/td-has-header)"
+	  ],
+	  "description": "Ensure that each non-empty data cell in a <table> larger than 3 by 3 has one or more table headers"
+	},
+	"!external link": {
+	  "scope": "markdown",
+	  "prefix": "!external link",
+	  "body": ["![external link](assets/external-link.svg)"],
+	  "description": "external link"
+	},
+	"kbd": {
+	  "scope": "markdown",
+	  "prefix": "!kbd",
+	  "body": ["<kbd>$TM_CURRENT_WORD</kbd>"],
+	  "description": "wraps text in <kbd></kbd>"
+	},
+	"summary": {
+	  "scope": "markdown",
+	  "prefix": "summary",
+	  "body": ["<details>", "  <summary></summary>", "</details>"],
+	  "description": "summary/details"
+	},
+	"example": {
+	  "scope": "markdown",
+	  "prefix": "example",
+	  "body": [
+		"[<img src=\"assets/example.png\" alt=\"example\" height=\"16px\">]($TM_CURRENT_LINE)"
+	  ]
+	},
+	"w3c-ref": {
+	  "scope": "markdown",
+	  "prefix": "w3c-ref",
+	  "body": [
+		"[<img src=\"assets/w3c-no-bars.svg\" alt=\"w3c reference\" height=\"16px\">]($TM_CURRENT_LINE)"
+	  ]
+	},
+	"snippet": {
+	  "prefix": "snippet",
+	  "body": [
+		"\"${1}\": {",
+		"  \"scope\": \"markdown\",",
+		"  \"prefix\": \"${1}\",",
+		"  \"body\": [\"${2}\"],",
+		"  \"description\": \"${1}\"",
+		"},"
+	  ],
+	  "description": "create snippet"
+	},
+	"coga-snippet": {
+	  "prefix": "coga-snippet",
+	  "body": [
+		"\"${CLIPBOARD}\": {",
+		"  \"scope\": \"markdown\",",
+		"  \"prefix\": \"${CLIPBOARD}\",",
+		"  \"body\": [\"[![coga](assets/coga.svg) ${1} ![external link](assets/external-link.svg)](${2})\"],",
+		"  \"description\": \"${CLIPBOARD}\"",
+		"},"
+	  ],
+	  "description": "coga-snippet"
+	},
+	"coga-clear-purpose": {
+	  "scope": "markdown",
+	  "prefix": "coga-clear-purpose",
+	  "body": [
+		"[![coga](assets/coga.svg) Make the purpose of your page clear ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p01-clear-purpose/)"
+	  ],
+	  "description": "coga-clear-purpose"
+	},
+	"coga-familiar-design": {
+	  "scope": "markdown",
+	  "prefix": "coga-familiar-design",
+	  "body": "[[![coga](assets/coga.svg) Use a familiar hierarchyand design ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p02-familiar-design/)]",
+	  "description": "coga-familiar-design"
+	},
+	"coga-consistent-design": {
+	  "scope": "markdown",
+	  "prefix": "coga-consistent-design",
+	  "body": [
+		"[![coga](assets/coga.svg) Use a consistent visual design ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p03-consistent-design/)"
+	  ],
+	  "description": "coga-consistent-design"
+	},
+	"coga-clear-steps": {
+	  "scope": "markdown",
+	  "prefix": "coga-clear-steps",
+	  "body": [
+		"[![coga](assets/coga.svg) Make each step clear ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p04-clear-steps/)"
+	  ],
+	  "description": "coga-clear-steps"
+	},
+	"coga-clear-controls": {
+	  "scope": "markdown",
+	  "prefix": "coga-clear-controls",
+	  "body": [
+		"[![coga](assets/coga.svg) Clearly identify controls and their use ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p05-clear-controls/)"
+	  ],
+	  "description": "coga-clear-controls"
+	},
+	"coga-control-actions": {
+	  "scope": "markdown",
+	  "prefix": "coga-control-actions",
+	  "body": [
+		"[![coga](assets/coga.svg) Make the relationship clear between controls and the content they affect ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p06-control-actions/)"
+	  ],
+	  "description": "coga-control-actions"
+	},
+	"coga-icons-used": {
+	  "scope": "markdown",
+	  "prefix": "coga-icons-used",
+	  "body": [
+		"[![coga](assets/coga.svg) Use icons that help the user ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p07-icons-used/)"
+	  ],
+	  "description": "coga-icons-used"
+	},
+	"coga-site-important": {
+	  "scope": "markdown",
+	  "prefix": "coga-site-important",
+	  "body": [
+		"[![coga](assets/coga.svg) Make it easy to find the most important tasks and features ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o2p01-site-important/)"
+	  ],
+	  "description": "coga-site-important"
+	},
+	"coga-site-structure": {
+	  "scope": "markdown",
+	  "prefix": "coga-site-structure",
+	  "body": [
+		"[![coga](assets/coga.svg) Make the site hierarchy easy to understand and navigate ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o2p02-site-structure/)"
+	  ],
+	  "description": "coga-site-structure"
+	},
+	"coga-page-structure": {
+	  "scope": "markdown",
+	  "prefix": "coga-page-structure",
+	  "body": [
+		"[![coga](assets/coga.svg) Use a clear and understandable page structure ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o2p03-page-structure/)"
+	  ],
+	  "description": "coga-page-structure"
+	},
+	"coga-page-important": {
+	  "scope": "markdown",
+	  "prefix": "coga-page-important",
+	  "body": [
+		"[![coga](assets/coga.svg) Make it easy to find the most important actions and information on the page ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o2p04-page-important/)"
+	  ],
+	  "description": "coga-page-important"
+	},
+	"coga-chunked-media": {
+	  "scope": "markdown",
+	  "prefix": "coga-chunked-media",
+	  "body": [
+		"[![coga](assets/coga.svg) Break media into chunks ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o2p05-chunked-media/)"
+	  ],
+	  "description": "coga-chunked-media"
+	},
+	"coga-search": {
+	  "scope": "markdown",
+	  "prefix": "coga-search",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide search ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o2p06-search/)"
+	  ],
+	  "description": "coga-search"
+	},
+	"coga-clear-words": {
+	  "scope": "markdown",
+	  "prefix": "coga-clear-words",
+	  "body": [
+		"[![coga](assets/coga.svg) Use clear words ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p01-clear-words/  )"
+	  ],
+	  "description": "coga-clear-words"
+	},
+	"coga-simple-tense": {
+	  "scope": "markdown",
+	  "prefix": "coga-simple-tense",
+	  "body": [
+		"[![coga](assets/coga.svg) Use a simple tense and voice ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p02-simple-tense/)"
+	  ],
+	  "description": "coga-simple-tense"
+	},
+	"coga-double-negatives": {
+	  "scope": "markdown",
+	  "prefix": "coga-double-negatives",
+	  "body": [
+		"[![coga](assets/coga.svg) Avoid double negatives or nested clauses ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p03-double-negatives/)"
+	  ],
+	  "description": "coga-double-negatives"
+	},
+	"coga-literal-language": {
+	  "scope": "markdown",
+	  "prefix": "coga-literal-language",
+	  "body": [
+		"[![coga](assets/coga.svg) Use literal language ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p04-literal-language/)"
+	  ],
+	  "description": "coga-literal-language"
+	},
+	"coga-succinct-text": {
+	  "scope": "markdown",
+	  "prefix": "coga-succinct-text",
+	  "body": [
+		"[![coga](assets/coga.svg) Keep text succinct ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p05-succinct-text/)"
+	  ],
+	  "description": "coga-succinct-text"
+	},
+	"coga-format-punctuation": {
+	  "scope": "markdown",
+	  "prefix": "coga-format-punctuation",
+	  "body": [
+		"[![coga](assets/coga.svg) Use clear, unambiguous formatting and punctuation ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p06-format-punctuation/)"
+	  ],
+	  "description": "coga-format-punctuation"
+	},
+	"coga-symbols-letters": {
+	  "scope": "markdown",
+	  "prefix": "coga-symbols-letters",
+	  "body": [
+		"[![coga](assets/coga.svg) Include symbols and letters necessary to decipher the words ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p07-symbols-letters/)"
+	  ],
+	  "description": "coga-symbols-letters"
+	},
+	"coga-summary-provided": {
+	  "scope": "markdown",
+	  "prefix": "coga-summary-provided",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide summary of long documents and media ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p08-summary-provided/)"
+	  ],
+	  "description": "coga-summary-provided"
+	},
+	"coga-separated-instructions": {
+	  "scope": "markdown",
+	  "prefix": "coga-separated-instructions",
+	  "body": [
+		"[![coga](assets/coga.svg) Separate each instruction ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p09-separated-instructions/)"
+	  ],
+	  "description": "coga-separated-instructions"
+	},
+	"coga-whitespace": {
+	  "scope": "markdown",
+	  "prefix": "coga-whitespace",
+	  "body": [
+		"[![coga](assets/coga.svg) Use white spacing ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p10-whitespace/)"
+	  ],
+	  "description": "coga-whitespace"
+	},
+	"coga-unobscured-foreground": {
+	  "scope": "markdown",
+	  "prefix": "coga-unobscured-foreground",
+	  "body": [
+		"[![coga](assets/coga.svg) Ensure foreground content is not obscured by background ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p11-unobscured-foreground/)"
+	  ],
+	  "description": "coga-unobscured-foreground"
+	},
+	"coga-implicit-explained": {
+	  "scope": "markdown",
+	  "prefix": "coga-implicit-explained",
+	  "body": [
+		"[![coga](assets/coga.svg) Explain implied content ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p12-implicit-explained/)"
+	  ],
+	  "description": "coga-implicit-explained"
+	},
+	"coga-numerical-alternatives": {
+	  "scope": "markdown",
+	  "prefix": "coga-numerical-alternatives",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide alternatives for numerical concepts ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o3p13-numerical-alternatives/)"
+	  ],
+	  "description": "coga-numerical-alternatives"
+	},
+	"coga-unexpected-movement": {
+	  "scope": "markdown",
+	  "prefix": "coga-unexpected-movement",
+	  "body": [
+		"[![coga](assets/coga.svg) Ensure controls and content do not move unexpectedly ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p01-unexpected-movement/)"
+	  ],
+	  "description": "coga-unexpected-movement"
+	},
+	"coga-back-undo": {
+	  "scope": "markdown",
+	  "prefix": "coga-back-undo",
+	  "body": [
+		"[![coga](assets/coga.svg) Let users go back ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p02-back-undo/)"
+	  ],
+	  "description": "coga-back-undo"
+	},
+	"coga-declared-charges": {
+	  "scope": "markdown",
+	  "prefix": "coga-declared-charges",
+	  "body": [
+		"[![coga](assets/coga.svg) Notify users of fees and charges at the start of a task ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p03-declared-charges/)"
+	  ],
+	  "description": "coga-declared-charges"
+	},
+	"coga-supportive-forms": {
+	  "scope": "markdown",
+	  "prefix": "coga-supportive-forms",
+	  "body": [
+		"[![coga](assets/coga.svg) Design forms to prevent mistakes ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p04-supportive-forms/)"
+	  ],
+	  "description": "coga-supportive-forms"
+	},
+	"coga-form-undo": {
+	  "scope": "markdown",
+	  "prefix": "coga-form-undo",
+	  "body": [
+		"[![coga](assets/coga.svg) Make it easy to undo form errors ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p05-form-undo/)"
+	  ],
+	  "description": "coga-form-undo"
+	},
+	"coga-clear-labels": {
+	  "scope": "markdown",
+	  "prefix": "coga-clear-labels",
+	  "body": [
+		"[![coga](assets/coga.svg) Use clear visible labels ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p06-clear-labels/)"
+	  ],
+	  "description": "coga-clear-labels"
+	},
+	"coga-step-instructions": {
+	  "scope": "markdown",
+	  "prefix": "coga-step-instructions",
+	  "body": [
+		"[![coga](assets/coga.svg) Use clear step-by-step instructions ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p07-step-instructions/)"
+	  ],
+	  "description": "coga-step-instructions"
+	},
+	"coga-input-formats": {
+	  "scope": "markdown",
+	  "prefix": "coga-input-formats",
+	  "body": [
+		"[![coga](assets/coga.svg) Accept different input formats ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p08-input-formats/)"
+	  ],
+	  "description": "coga-input-formats"
+	},
+	"coga-data-loss": {
+	  "scope": "markdown",
+	  "prefix": "coga-data-loss",
+	  "body": [
+		"[![coga](assets/coga.svg) Avoid data loss and \"timeouts\" ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p09-data-loss/)"
+	  ],
+	  "description": "coga-data-loss"
+	},
+	"coga-status-feedback": {
+	  "scope": "markdown",
+	  "prefix": "coga-status-feedback",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide feedback ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p10-status-feedback/)"
+	  ],
+	  "description": "coga-status-feedback"
+	},
+	"coga-user-safety": {
+	  "scope": "markdown",
+	  "prefix": "coga-user-safety",
+	  "body": [
+		"[![coga](assets/coga.svg) Help the user stay safe ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p11-user-safety/)"
+	  ],
+	  "description": "coga-user-safety"
+	},
+	"coga-familiar-metrics": {
+	  "scope": "markdown",
+	  "prefix": "coga-familiar-metrics",
+	  "body": [
+		"[![coga](assets/coga.svg) Use familiar metrics and units ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o4p12-familiar-metrics/)"
+	  ],
+	  "description": "coga-familiar-metrics"
+	},
+	"coga-minimal-interruptions": {
+	  "scope": "markdown",
+	  "prefix": "coga-minimal-interruptions",
+	  "body": [
+		"[![coga](assets/coga.svg) Limit interruption ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o5p01-minimal-interruptions/)"
+	  ],
+	  "description": "coga-minimal-interruptions"
+	},
+	"coga-short-paths": {
+	  "scope": "markdown",
+	  "prefix": "coga-short-paths",
+	  "body": [
+		"[![coga](assets/coga.svg) Make short critical paths ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o5p02-short-paths/)"
+	  ],
+	  "description": "coga-short-paths"
+	},
+	"coga-manageable-quantity": {
+	  "scope": "markdown",
+	  "prefix": "coga-manageable-quantity",
+	  "body": [
+		"[![coga](assets/coga.svg) Avoid too much content ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o5p03-manageable-quantity/)"
+	  ],
+	  "description": "coga-manageable-quantity"
+	},
+	"coga-task-expectations": {
+	  "scope": "markdown",
+	  "prefix": "coga-task-expectations",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide information so a user can complete and prepare for a task ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o5p04-task-expectations/)"
+	  ],
+	  "description": "coga-task-expectations"
+	},
+	"coga-login-cognition": {
+	  "scope": "markdown",
+	  "prefix": "coga-login-cognition",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide a login that does not rely on memory or other cognitive skills ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o6p01-login-cognition/)"
+	  ],
+	  "description": "coga-login-cognition"
+	},
+	"coga-singlestep-login": {
+	  "scope": "markdown",
+	  "prefix": "coga-singlestep-login",
+	  "body": [
+		"[![coga](assets/coga.svg) Allow the user a simple, single step, login ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o6p02-singlestep-login/)"
+	  ],
+	  "description": "coga-singlestep-login"
+	},
+	"coga-concise-login": {
+	  "scope": "markdown",
+	  "prefix": "coga-concise-login",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide a login alternative with less words ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o6p03-concise-login/)"
+	  ],
+	  "description": "coga-concise-login"
+	},
+	"coga-voice-menus": {
+	  "scope": "markdown",
+	  "prefix": "coga-voice-menus",
+	  "body": [
+		"[![coga](assets/coga.svg) Let users avoid navigating voice menus ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o6p04-voice-menus/)"
+	  ],
+	  "description": "coga-voice-menus"
+	},
+	"coga-low-cognition": {
+	  "scope": "markdown",
+	  "prefix": "coga-low-cognition",
+	  "body": [
+		"[![coga](assets/coga.svg) Do not rely on users calculations or memorizing information ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o6p05-low-cognition/)"
+	  ],
+	  "description": "coga-low-cognition"
+	},
+	"coga-human-help": {
+	  "scope": "markdown",
+	  "prefix": "coga-human-help",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide human help ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p01-human-help/)"
+	  ],
+	  "description": "coga-human-help"
+	},
+	"coga-alternative-content": {
+	  "scope": "markdown",
+	  "prefix": "coga-alternative-content",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide alternative content for complex information and tasks ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p02-alternative-content/)"
+	  ],
+	  "description": "coga-alternative-content"
+	},
+	"coga-supported-choice": {
+	  "scope": "markdown",
+	  "prefix": "coga-supported-choice",
+	  "body": [
+		"[![coga](assets/coga.svg) Clearly state the results and disadvantages of actions, options, and selections ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p03-supported-choice/)"
+	  ],
+	  "description": "coga-supported-choice"
+	},
+	"coga-described-interactions": {
+	  "scope": "markdown",
+	  "prefix": "coga-described-interactions",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide help for forms and non-standard control ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p04-described-interactions/)"
+	  ],
+	  "description": "coga-described-interactions"
+	},
+	"coga-findable-support": {
+	  "scope": "markdown",
+	  "prefix": "coga-findable-support",
+	  "body": [
+		"[![coga](assets/coga.svg) Make it easy to find help and give feedback ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p05-findable-support/)"
+	  ],
+	  "description": "coga-findable-support"
+	},
+	"coga-supported-wayfinding": {
+	  "scope": "markdown",
+	  "prefix": "coga-supported-wayfinding",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide help with directions ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p06-supported-wayfinding/)"
+	  ],
+	  "description": "coga-supported-wayfinding"
+	},
+	"coga-reminders": {
+	  "scope": "markdown",
+	  "prefix": "coga-reminders",
+	  "body": [
+		"[![coga](assets/coga.svg) Provide reminders ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o7p07-reminders/)"
+	  ],
+	  "description": "coga-reminders"
+	},
+	"coga-motion": {
+	  "scope": "markdown",
+	  "prefix": "coga-motion",
+	  "body": [
+		"[![coga](assets/coga.svg) Let users control when the content moves or changes ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o8p01-motion/)"
+	  ],
+	  "description": "coga-motion"
+	},
+	"coga-apis": {
+	  "scope": "markdown",
+	  "prefix": "coga-apis",
+	  "body": [
+		"[![coga](assets/coga.svg) Enable apis and extensions ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o8p02-apis/)"
+	  ],
+	  "description": "coga-apis"
+	},
+	"coga-complexity": {
+	  "scope": "markdown",
+	  "prefix": "coga-complexity",
+	  "body": [
+		"[![coga](assets/coga.svg) Support simplification ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o8p03-complexity/)"
+	  ],
+	  "description": "coga-complexity"
+	},
+	"coga-interface": {
+	  "scope": "markdown",
+	  "prefix": "coga-interface",
+	  "body": [
+		"[![coga](assets/coga.svg) Support a personalized and familiar interface ![external link](assets/external-link.svg)](https://www.w3.org/wai/wcag2/supplemental/patterns/o8p04-interface/)"
+	  ],
+	  "description": "coga-interface"
+	}
+  }
+  
