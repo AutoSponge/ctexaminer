@@ -202,7 +202,7 @@ a:focus,a:active {
 
 ### Placement of nav menu causes incorrect tab sequence
 
-> - Rule: [2.4.3 Focus Order (A) ![external link](assets/external-link.svg)]> (https://www.w3.org/WAI/WCAG22/Understanding/focus-order)
+> - Rule: [2.4.3 Focus Order (A) ![external link](assets/external-link.svg)](https://www.w3.org/WAI/WCAG22/Understanding/focus-order)
 > - Location: https://ctexaminer.com/
 > - Count: 1
 
