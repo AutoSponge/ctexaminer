@@ -312,7 +312,7 @@ Alternately (less ideal), trap focus within the navigation menu. This would foll
 #### Fix
 
 ```diff
-+   <h1 class="screen-reader-tex">State and Local Connecticut News</h1>
++   <h1 class="screen-reader-text">State and Local Connecticut News</h1>
     <h2 class="headline-sans">{{all section headings}}</h2>
     ...
     <h3 class="visual-h2">{{headlines with thumbnails}}</h3>
