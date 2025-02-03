@@ -65,7 +65,7 @@ Below are the abbreviated steps I work through. I may notice things that aren't 
 
 ### Assistive technology (AT) test
 
-> - **MacOS** [Getting started with VoiceOver ![external link](assets/> external-link.svg)](https://support.apple.com/en-ie/guide/voiceover/> vo4be8816d70/mac)
+> - **MacOS** [Getting started with VoiceOver ![external link](assets/external-link.svg)](https://support.apple.com/en-ie/guide/voiceover/vo4be8816d70/mac)
 > - **Windows** [NVDA Quick Start Guide ![external link](assets/external-link.> svg)](https://www.nvaccess.org/files/nvda/documentation/userGuide.> html#NVDAQuickStartGuide)
 
 1. Browse to the screen to be tested.
